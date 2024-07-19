@@ -1,0 +1,27 @@
+﻿cl : 명령줄  warning D9002: 알 수 없는 '-std=c11' 옵션을 무시합니다.
+cl : 명령줄  warning D9002: 알 수 없는 '-lgdi32' 옵션을 무시합니다.
+  context.c
+  egl_context.c
+  init.c
+  input.c
+  monitor.c
+  null_init.c
+  null_joystick.c
+  null_monitor.c
+  null_window.c
+  osmesa_context.c
+  platform.c
+  vulkan.c
+  wgl_context.c
+  win32_init.c
+  win32_joystick.c
+  win32_module.c
+  win32_monitor.c
+  win32_thread.c
+  win32_time.c
+  win32_window.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  window.c
+  코드를 생성하고 있습니다...
+  GLFW.vcxproj -> C:\Users\jaemjeon\physicsEngine\JJEngine\vendor\GLFW\bin\Debug-windows-x86_64\GLFW\GLFW.lib
